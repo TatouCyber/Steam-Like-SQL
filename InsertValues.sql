@@ -261,6 +261,7 @@ INSERT INTO Appartient (idJeu, NomGenre) VALUES
 (2, 'Rogue-like'),
 (2, 'Action'),
 (2, 'Indie'),
+(2,'RPG'),
 (3, 'Plateforme'),
 (3, 'Indie'),
 (4, 'Puzzle'),
